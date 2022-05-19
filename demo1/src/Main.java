@@ -1,4 +1,7 @@
 import java.util.Scanner;
+/**
+ * 功能介绍：登录验证，输出对象关系
+ */
 
 public class Main {
     public static void main(String[] args) {
