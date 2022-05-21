@@ -20,8 +20,7 @@ public class Main {
         if(lazyStyle1.equals(lazyStyle)){
             System.out.println("两实例对象为：同一对象");
         }else{
-        System.out.println("两实例对象为：不同对象");
-
+            System.out.println("两实例对象为：不同对象");
         }
 
     }
