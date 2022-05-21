@@ -22,6 +22,8 @@ public class Main {
 
 // 数组排序
 class Sort {
+
+
     private int[] arr = new int[20];
 
     public int[] getArr() {
