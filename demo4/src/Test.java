@@ -1,6 +1,6 @@
 /**
  * @author 本当迷
- * @Description 练习
+ * @Description 多态练习
  * @date 2022/5/20-13:05
  */
 public class Test {
